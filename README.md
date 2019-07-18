@@ -5,7 +5,7 @@ This repository shows you how to use the Spring Boot [Actuator](https://spring.i
 
 It also extends the base functionality to be able to monitor all the HTTP traffic during an [OpenID Connect](https://openid.net/connect/) authentication flow.
 
-The blog post that references this repository can be found on the [Okta Developer Blog]().
+The blog post that references this repository can be found on the [Okta Developer Blog](https://developer.okta.com/blog/2019/07/17/monitoring-with-actuator).
 
 **Prerequisites:** [Java 8](https://adoptopenjdk.net/).
 
@@ -60,7 +60,7 @@ This example uses the following open source libraries:
 
 ## Help
 
-Please post any questions as comments on the [blog post](), or on the [Okta Developer Forums](https://devforum.okta.com/).
+Please post any questions as comments on the [blog post](https://developer.okta.com/blog/2019/07/17/monitoring-with-actuator), or on the [Okta Developer Forums](https://devforum.okta.com/).
 
 ## License
 
